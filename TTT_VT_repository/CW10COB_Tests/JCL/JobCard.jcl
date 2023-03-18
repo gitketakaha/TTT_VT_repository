@@ -1,4 +1,4 @@
-//${userId} JOB ('${accountingInfo}'),'NAME',NOTIFY=&SYSUID,CLASS=A,
-//        MSGCLASS=X,REGION=0M
+//SJPKTT#T JOB ('ACCOUNTING INFO'),'TTTRUNNER',CLASS=A,MSGCLASS=X, 
+//             NOTIFY=&SYSUID,REGION=0M
 //*
-//* Jobcard skeleton
+//*

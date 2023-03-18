@@ -8,6 +8,9 @@
       <Value>SALESSUP.ISPW.DEMJ.HON.LOAD</Value>
       <Value>CEE.SCEERUN</Value>
     </Parameter>
+    <Parameter key="unittest.staticjcl">
+      <Value>../JCL/TTTRUNNER.jcl</Value>
+    </Parameter>
   </ExtensionData>
   <XaUnit xmlns:data="http://www.xact.dk/xatester/data/v/1" componentNameUnderTest="CW10COB" caseInsensitiveCompare="false" path="CW10COB_#01_Scenario.testscenario">
     <Test>
