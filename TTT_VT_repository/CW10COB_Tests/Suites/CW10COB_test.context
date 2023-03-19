@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExecutionContext xmlns="http://www.xact.dk/xatester/v/1" environment="3733a884-8048-4e92-a5dc-22fee13c3d54" logLevel="INFO" remote="false" useSimulations="true" uploadResult="false" timeout="300" readTimeout="60" debuggerType="CCEXPEDITER" jobInfoInterval="3" useRepository="false" ccrepository="SALESSUP.JAPAN.SC.REPOSIT" ccsystem="PIPELINE_DEMO" cctestid="CW10DEMO" ccprogramtype="TOTALTEST - TTTRUNNR" ccreset="false" ccshow="false">
+  <ExtensionData>
+    <Parameter key="unittest.loadlibraries">
+      <Value>SALESSUP.ISPW.DEMJ.UT1.LOAD</Value>
+      <Value>SALESSUP.ISPW.DEMJ.SI1.LOAD</Value>
+      <Value>SALESSUP.ISPW.DEMJ.PT.LOAD</Value>
+      <Value>SALESSUP.ISPW.DEMJ.HON.LOAD</Value>
+      <Value>CEE.SCEERUN</Value>
+    </Parameter>
+  </ExtensionData>
+  <XaUnit xmlns:data="http://www.xact.dk/xatester/data/v/1" caseInsensitiveCompare="false" path="CW10COB_test.suite">
+    <Test>
+      <Unittest testscenariopath="../Scenarios/CW10COB_#01_Scenario.testscenario" moduleName="" />
+      <Unittest testscenariopath="../Scenarios/CW10COB_#02_Scenario.testscenario" moduleName="" />
+    </Test>
+  </XaUnit>
+</ExecutionContext>

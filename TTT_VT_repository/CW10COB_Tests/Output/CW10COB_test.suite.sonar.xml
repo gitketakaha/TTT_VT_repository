@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 20.11.2.v20220724-1531_125?>
+<!--Topaz for Total Test 20.11.2.v20220724-1531_125 2023/03/19 19:01:41-->
+<testExecutions version="1">
+  <file path="C:\Users\ketakaha\git\TTT_VT_repository\TTT_VT_repository\CW10COB_Tests\Scenarios\CW10COB_#01_Scenario.context">
+    <testCase name="Unit Test: Test Case: CW10COBCase1 for program: CW10COB" duration="0" />
+  </file>
+  <file path="C:\Users\ketakaha\git\TTT_VT_repository\TTT_VT_repository\CW10COB_Tests\Scenarios\CW10COB_#02_Scenario.context">
+    <testCase name="Unit Test: Test Case: CW10COBCase1 for program: CW10COB" duration="0" />
+  </file>
+</testExecutions>

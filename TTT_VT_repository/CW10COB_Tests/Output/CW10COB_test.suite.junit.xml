@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 20.11.2.v20220724-1531_125?>
+<!--Topaz for Total Test 20.11.2.v20220724-1531_125 2023/03/19 19:01:41-->
+<testsuites>
+  <testsuite name="CW10COB_#01_Scenario.context" errors="0" tests="1" failures="0">
+    <testcase classname="CW10COB_#01_Scenario.context" name="Unit Test: Test Case: CW10COBCase1 for program: CW10COB" />
+  </testsuite>
+  <testsuite name="CW10COB_#02_Scenario.context" errors="0" tests="1" failures="0">
+    <testcase classname="CW10COB_#02_Scenario.context" name="Unit Test: Test Case: CW10COBCase1 for program: CW10COB" />
+  </testsuite>
+</testsuites>
